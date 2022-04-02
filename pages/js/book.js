@@ -20,7 +20,6 @@ async function updateHTML() {
     const content = atob(book.content);
     const json = JSON.parse(content);
 
-    units = true;
     const { name, units, data } = json;
 
     const title = document.getElementById('title');
