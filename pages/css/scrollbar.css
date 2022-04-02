@@ -1,0 +1,14 @@
+::-webkit-scrollbar {
+    background: #fff;
+    width: 12px;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, blue);
+    border-radius: 6px;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, rgb(69, 69, 241));
+    border-radius: 6px;
+}
