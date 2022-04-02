@@ -1,5 +1,5 @@
 const repo = '47PADO47/solu.zone';
-const url = (name) => `https://api.github.com/repos/${repo}/contents/docs/${name}.json`
+const url = (name) => `https://api.github.com/repos/${repo}/contents/books/${name}.json`
 
 async function fetchBook(name) {
     const al = document.getElementById('alert');
