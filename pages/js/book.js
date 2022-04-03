@@ -98,5 +98,7 @@ async function updateHTML() {
 function goToPage() {
     const input = document.getElementById('input');
     const page = input.value;
-    window.location.href += `#page${page}`;
+    window.location.href = `${window.location.origin}${window.location.pathname}#page${page}`;
+    
+    console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', `goToPage(${page}) called`);
 };
