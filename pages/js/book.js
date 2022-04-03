@@ -10,16 +10,16 @@ async function fetchBook(name) {
 
     if (res.status !== 200) {
         console.log('%c [ERROR] %c fetchBook() failed', 'font-size: 1.5em; color: #ff0000;', '');
-        al.setAttribute('hidden', false);
-        al.innerText = 'Errore di connessione';
+        al.hidden = false;
+        al.innerText = 'Errore di connessione ❌';
         return;
     };
     console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', 'fetch() returned');
 
     const data = await res.json().catch(err => {
         console.log('%c [ERROR] %c fetchBook() failed (non-json)', 'font-size: 1.5em; color: #ff0000;', '');
-        al.setAttribute('hidden', false);
-        al.innerText = 'Errore di connessione';
+        al.hidden = false;
+        al.innerText = 'Errore di connessione ❌';
     });
     return data;
 };
@@ -30,7 +30,11 @@ async function updateHTML() {
 
     const content = atob(book.content);
     const json = JSON.parse(content);
-    const { name, units, data } = json;
+    const {
+        name,
+        units,
+        data
+    } = json;
 
     console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', 'book loaded');
 
@@ -44,10 +48,10 @@ async function updateHTML() {
     data.forEach(element => {
         if (units) {
             const unit = document.createElement('h1');
-            unit.innerText = "Unità"+element[0];
+            unit.innerText = "Unità" + element[0];
 
             const br = document.createElement('br');
-            
+
             div.appendChild(unit);
             div.appendChild(br);
             div.appendChild(br);
@@ -94,5 +98,5 @@ async function updateHTML() {
 function goToPage() {
     const input = document.getElementById('input');
     const page = input.value;
-    window.location.href+=`#page${page}`;
+    window.location.href += `#page${page}`;
 };

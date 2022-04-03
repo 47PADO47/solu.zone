@@ -11,21 +11,21 @@ async function getBooks() {
 
     const al = document.getElementById('alert');
     const booksDiv = document.getElementById('books');
-    
+
     const res = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`);
-    
+
     if (res.status !== 200) {
         console.log('%c [ERROR] %c getBooks() failed', 'font-size: 1.5em; color: #ff0000;', '');
-        al.setAttribute('hidden', false);
-        al.innerText = 'Errore di connessione';
+        al.hidden = false;
+        al.innerText = 'Errore di connessione ❌';
         return;
     };
     console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', 'fetch() returned');
 
     const data = await res.json().catch(err => {
         console.log('%c [ERROR] %c getBooks() failed (non-json)', 'font-size: 1.5em; color: #ff0000;', '');
-        al.setAttribute('hidden', false);
-        al.innerText = 'Errore di connessione';
+        al.hidden = false;
+        al.innerText = 'Errore di connessione ❌';
     });
 
     const books = data.filter(book => book.name.endsWith('.json'));

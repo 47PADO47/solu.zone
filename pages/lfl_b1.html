@@ -48,14 +48,15 @@
 
     <!-- Body -->
 
-    <div class="alert alert-danger" hidden role="alert" id="alert">
-
-    </div>
-
     <h1 id="title"></h1>
 
     <div class="container-sm center" style="margin-top: 30px;" id="input_container">
         <div class="d-grid gap-2 col-4 mx-auto">
+
+            <div class="alert alert-danger" hidden role="alert" id="alert">
+
+            </div>
+            
             <input type="number" id="input" placeholder="Go to page..." class="form-control">
             <button onclick="goToPage()" type="submit" class="btn btn-primary">Go</button>
         </div>
@@ -69,8 +70,8 @@
 
     <!-- Spinner -->
 
-    <div class="d-flex justify-content-center" id="spinner">
-        <div class="spinner-border text-info" role="status">
+    <div class="d-flex justify-content-center">
+        <div class="spinner-border text-info" role="status" id="spinner">
         </div>
     </div>
 
@@ -84,8 +85,11 @@
     </center>
 
     <script>
-        window.onload = () => updateHTML();
-        document.getElementById('container').onchange = () => document.getElementById('spinner').hidden = true;
+        window.onload = async () => {
+            await updateHTML();
+            document.getElementById("spinner").hidden = true;
+            document.getElementById("input").focus();
+        };
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
