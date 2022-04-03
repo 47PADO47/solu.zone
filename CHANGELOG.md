@@ -6,7 +6,7 @@
     - res.status != 200
     - Page input
     - Changelog and Readme
-    - Fixed spinner, alert and input
+    - Fixed spinner, alert, input and navbar
 
 ## 02/04/2022
 
