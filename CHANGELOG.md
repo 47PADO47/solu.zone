@@ -1,5 +1,10 @@
 # Changelog
 
+## 04/04/2022
+
+    - Target _blank on repo link
+    - Added no-script alert
+
 ## 03/04/2022
 
     - JS files logging to console
