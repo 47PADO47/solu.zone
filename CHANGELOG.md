@@ -1,5 +1,13 @@
 # Changelog
 
+
+## 09/04/2022
+
+    - Added meta tags
+    - Updated JS
+    - Bold exercises number
+    - Exercises text split into multiple lines
+
 ## 04/04/2022
 
     - Target _blank on repo link
