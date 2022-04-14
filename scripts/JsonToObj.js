@@ -69,8 +69,7 @@ function handle(page, arr) {
 
         const dots = exercise.slice(number.length).split('.').join('.\n');
         const commas = dots.split(',').join(',\n');
-        const semicolon = commas.split(';').join(';\n');
-        const text = semicolon.replace('\n', '\n');
+        const text = commas.split(';').join(';\n');
         
         const exerciseobj = {
             number,

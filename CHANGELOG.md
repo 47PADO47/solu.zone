@@ -6,6 +6,9 @@
     - Added lfl A2 and B2
     - Updated books with "\n"
     - Updated scripts
+    - Added index.html and books.html spinner
+    - Added info page
+    - Removed </> page from navbar
 
 ## 09/04/2022
 
