@@ -1,0 +1,660 @@
+{
+  "name": "LFL A2",
+  "units": true,
+  "data": [
+    [
+      [" 0: Build-up\n"],
+      [
+        "6\n",
+        "1\nvideo games\nmusic\nreading\nfilms\ndancing\nthe Internet\nshopping\nsport\nphotography\nskateboarding\n",
+        "2\nsport\nvideo games\nphotography\nmusic\nhobbies\n",
+        "3\nfilms\ncomputers\nhip hop music\nvideo games\nphotography\nskateboarding\nsport\ntennis\nsports\ntennis and basketball\n"
+      ],
+      [
+        "7\n",
+        "5\nis\nafter\n",
+        "6\nisn’t\n’m not\nare\n’s\naren’t\n’re\n",
+        "7\nare\nisn't\nare\nis,'s\n'm not\naren't\n",
+        "8\nhe\nmy\nhis\nher\nthey\nour\nyour\n",
+        "9\nsubject pronoun\npossessive adjective\n",
+        "10\nIt\nThey\nWe\nYou\nShe\nHe\n",
+        "11\nmy\nHer\nThey’re\nOur\ntheir\nIt’s\n"
+      ],
+      [
+        "8\n",
+        "1\nJ\nA\nQ\nI\nH\nE\nH\nO\nP\nM\nL\nF\nN\nS\nD\nB\nR\nG\nC\n",
+        "2\non\nbehind\nin front of\nbetween\nin\nnear\nunder\nnext to\nabove\nopposite\n"
+      ],
+      [
+        "9\n",
+        "6\nsingular\nplural\n",
+        "7\nHarry's pens\nmy brothers' bedroom\nthe teachers' names\nEva's exercise book\n",
+        "8\nis\nam\nis\naren't\n",
+        "9\nAre\nIs\nAre\nAre\nIs\n",
+        "11\nf\nd\ng\na\nc\ne\nb\n"
+      ],
+      [
+        "10\n",
+        "1\nhorrible\nsmall\ngood\nnew\ninteresting\nslow\npopular\ncheap\n",
+        "3\nb\nb\nb\na\na\n"
+      ],
+      [
+        "11\n",
+        "6\nthat\nThis\nthat\nthese\n",
+        "8\n's\nhaven't got\nHave\ngot\n",
+        "9\nHave you got\nhave\nhaven't got\nHas Mum got\nhas\n've got\nhasn't got\n've got\n"
+      ],
+      [
+        "12\n",
+        "1\nsister\nme\nGrandad\nGrandma\nDad\nMum\n",
+        "2\neight\n\n",
+        "3\nAnn\nGemma\nKylie\nMax\nCarl\nLynn\n",
+        "4\ndaughter\nwife\nbrother\nsister\ndad\nhusband\ngrandad\n",
+        "5\nnephew\ngranddaughter\nrelative\ngrandson\ntwin\nniece\n"
+      ],
+      [
+        "13\n",
+        "6\nsome\na,an,a(n)\nany\n",
+        "7\nan\na\na\nsome\nany\n",
+        "8\nthere are\nthere aren't\nare\nthere\n",
+        "9\nStudents’ own answers. Possible answers:\n\nThere’s/There isn’t a\nThere are/There aren’t\nThere are/There aren’t\nIs there a…; Yes, there is./No, there isn’t.\nIs there a…; Yes, there is./No, there isn’t.\nAre there any…; Yes, there are./No, there aren’t.\n",
+        "10\nyou\nhim\nit\nus\nthem\n",
+        "11\nher\nit\nhim\nus\nthem\nme\nyou\n"
+      ],
+      [
+        "14\n",
+        "1\nare, Their, is\n'm, My, are\nisn't, His, is\nis, Her, is\naren't, Our, are\n'm not, My, is\n",
+        "3\nWhy are you into sport?\nWhere are they?\nWhat's your favourite hobby?\nHow are you?\nWhen is Mary's birthday?\nWho is that boy?\n",
+        "4\nHave you got\nI have\nthis\n've got\nthose\nI've got\nhaven't got\n's got\nhas Tom got\nhave I got\nhaven't\nThis\n",
+        "5\nThere’s\nher\nare\nit\naren’t\nthem\nthere\nsome\naren’t\nthere’s\nany\nus\n",
+        "6\nStudents’ own answers. Possible answers: Are there any posters on the walls? No, there aren’t. Is there a clock? No, there isn’t. Are there any shelves? Yes, there are. Are there any computers? Yes, there’s one computer for the teacher.\n\n",
+        "7\nname’s\n'm,am\nIt’s\nMy\nisn't\nThere\nit\nhaven't got\nsome\nThey’re\nThis\nShe’s\nbrother’s\nhim\n're\nour\nHave you got\nWhat\nwhy\nthem\n"
+      ],
+      [
+        "15\n",
+        "8\nClassroom objects\nspeaker, rubber, pencil, poster, dictionary\nFamilies\nrelative, niece, twin, cousin, children, grandson\nHobbies / Interests\ndancing, sport, music, reading, shopping\nPossessions\nwatch, earrings, purse, money, wallet\n",
+        "9\ncheap, expensive\non, between\ntablet, popular\nbehind, front\naunt, husband\n",
+        "10\nfrom\nbig\nto\nin\ninto\nvery\nat\nboring\nplayer\ncase\n",
+        "11\nWhat is your name?\nHave you got an ID card?\nAre there any posters in your classroom?\nHas your dad got any nephews?\nHave your parents got expensive cars?\nIs there a CD player in your house?\nWhere is your desk?\nWhat have you got in your pencil case?\nAre your parents nice?\nHow many people are there in your family?\n",
+        "13\nA This photo’s really/very nice!\nB Thanks. It’s a photo of my family!\nA Is that your mother?\nB Yes, it is.\nA Who’s in front of her?\nB Those are my aunt and uncle!\nA And where are you?\nB I’m not in the photo. I’m behind the camera!\nA Have you got any photos of me on your mobile (phone)?\nB Yes, I have. These photos in Paris are my favourite.\nA Really? Those photos are horrible!\n"
+      ]
+    ],
+    [
+      [" 1: Days in our lives\n"],
+      [
+        "16\n",
+        "1\nKelly’s favourite day of the week is Saturday\n\n",
+        "2\nF. Kelly wakes up at about 9 a.m.\nT\nF. Kelly plays football on Saturdays.\nT\nT\n",
+        "5\nF. They usually wake up early.\nT\nF. You use less water when you have a shower than when you have a bath.\nT\nT\nF. Most people take a short break of less than an hour.\nT\nT\nF. Only 25% of American parents say their children help with the housework.\nT\nT\n"
+      ],
+      [
+        "17\n",
+        "6\n7 finish school\n2 get up\n8 go home\n10 go to bed\n4 go to school\n3 have breakfast\n6 have lunch\n5 start school\n\n",
+        "7\nhalf past (ten)\nquarter past (six)\n(one) o’clock\nquarter to (twelve)\nten to (seven)\ntwenty-five past (nine)\ntwenty-five to (two)\nfive past (eight)\ntwenty past (three)\nfive to (four)\nten past (nine)\ntwenty to (eleven)\n",
+        "8\n6:45\n7:15\n8:40\n12:15\n4:30\n7:55\n"
+      ],
+      [
+        "18\n",
+        "1\nc\n\n",
+        "2\nF\nT\nF\nT\nF\nF\nF\n",
+        "3\nThe Bates have got nine sons.\nThe Bates go to restaurants in two minibuses.\nGil and Kelly have got three grandchildren.\nGil and Kelly have got ten daughters.\nThe children eat nearly 50 eggs every day\n",
+        "4\ndaughters\nchildren\neggs\nclasses\nhobbies\nminibuses\nbabies\npeople\n",
+        "5\ngrandchildren\nwomen\nglasses\ncountries\nmen\nknives\nfamilies\njobs\n"
+      ],
+      [
+        "19\n",
+        "7\nbase form\ndon’t\ndoesn't\n",
+        "8\ndon't live\ntravel\ndoesn't go\nworks\nmake\ndoesn't stay\ndoesn't lose\nmoves\nchat\ndon't understand\ndon't want\n"
+      ],
+      [
+        "20\n",
+        "1\nsing songs, play music or dance to music?\nwear a costume?\nsend cards or messages?\ngive presents to people?\ngo out with your family or friends?\nvisit people or invite people to your house?\nbe in a parade or watch one?\nburn candles or watch fireworks?\nput up decorations?\n",
+        "3\ntraditional celebration\nan interview\nin the UK\nmusic, food and fireworks\n",
+        "5\nclean\nwash clothes\nfish\ncostume\nfireworks\n",
+        "6\nStudents’ own answers. Possible answer:\nChinese people watch fireworks at New Year. We do that in Italy too!\n\n"
+      ],
+      [
+        "21\n",
+        "7\ndoes\ndo\ndoesn't\n",
+        "8\nDoes your grandad give\nYes, he does\nDo you watch\nNo, we don't\nDo they play\nYes, they do\n",
+        "9\nWhere do you live?\nWhat time do you get up on school days?\nWhat time does your first lesson start?\nDoes your grandad go to work?\nDo you normally have a party at New Year?\n",
+        "10\nafter\nusually,usually,\nsometimes,sometimes,\nhardly ever,hardly ever,\nnever\n",
+        "11\nI'm never late for school.\nWe usually celebrate my birthday at home.\nI hardly ever listen to music on the Internet.\nWe don't often visit our grandparents.\nDad sometimes makes dinner for us.\n",
+        "13\nat\nin\non\n",
+        "14\nin\non\nin\nat\nin\non\nat\non\n",
+        "15\nDo you give presents and send cards at Christmas?\nWhen do people in your town wear costumes?\nHow do you get to school?\nWhat do you do at the weekend?\nWhat time do you go to bed on Saturday nights?\n",
+        "16\nStudents’ own answers. Possible answers:\nWhat time do you get up at the weekends? I usually get up at ten o’clock.\n\n"
+      ],
+      [
+        "22\n",
+        "2\nFrank is Adam’s friend. He’s the new student in Adam’s class.\n\n",
+        "5\nStudents’ own answers. Possible answer:\nA Hi. This is a great party. I’m Giulia. What’s your name?\nB I’m Giacomo. I’m Sam’s brother. Are you Sam’s friend? She usually invites her friends to my parties.\nA Yes, I am. When’s your birthday? Is it this weekend?\nB No. It’s on Monday.\nA How old are you?\nB I’m 14. How about you?\nA I’m 14, too, but I’m 15 in December.\nB Have you got any brothers and sisters?\nA I’ve got a sister, Emily. She’s 12.\nB Cool. I remember, are you the new student in Sam’s class? Where are you from?\nA That’s me. I’m from Birmingham.\nB Great. So, welcome to my party!\n"
+      ],
+      [
+        "23\n",
+        "1\nStudents’ own answers. Possible answers:\n\nI usually get a lot of homework. I do it every afternoon.\nI usually do the washing up and tidy my room.\nI play volleyball on Tuesday and Thursday evenings.\nI play the guitar in a band.\nI think Friday evening is a good time for band practice.\n",
+        "2\nLilly D\nVictoria F\nDan E\nKarla A\n",
+        "3\nF. Lilly doesn’t know what homework she has on each day.\nF. Victoria sometimes does her homework in the library after school and she sometimes does it at home before dinner.\nF. Dan watches television after he does his homework.\nT\nF. They all do their homework at home. Victoria sometimes does her homework in the school library.\nT\n",
+        "4\nStudents’ own answers. Possible answers:\n\nI’m like Lilly. I do my homework while I watch TV.\nYou can have more free time to relax if you manage your time.\nWhen you don’t organise you time, you sometimes forget to do important things.\n"
+      ]
+    ],
+    [
+      [" 2: World of learning\n"],
+      [
+        "24\n",
+        "1\nCresskill High School is in New Jersey, in the USA.\n\n",
+        "3\na\nc\nb\nb\na\nc\na\nb\n",
+        "4\nEnglish\nBiology\nArt\nGeography\nChemistry\nICT\nHistory\nRE\n",
+        "5\nInformation and Communications Technology\nPhysical Education\nDesign and Technology\nPersonal, Social and Health Education\nReligious Education\n"
+      ],
+      [
+        "25\n",
+        "7\nStudents’ own answers. Possible answers:\nHow often do you have Chemistry lessons?\nDo you ever arrive late for school?\nHow often do you watch videos in your English class?\nDo you ever go on excursions with your Geography teacher?\nHow often do you forget to do your History homework?\nDo you ever give presentations in your RE class?\n"
+      ],
+      [
+        "26\n",
+        "1\nTaylor’s project is about unusual ways of learning in different countries.\n\n",
+        "2\nF\nF\nT\nF\nT\nF\n",
+        "4\nclass\nexercises\nschool\nbus\nlesson\nsession\n",
+        "5\nboard\ncourt,teacher\nteacher,student\nbreak\ncase\nteacher,student\n"
+      ],
+      [
+        "27\n",
+        "7\nactions in progress now\n-ing form\n-ing form\n",
+        "8\nMark's looking at my exam paper.\nHe isn't feeling very well.,He's not feeling very well.\nShe's sitting next to my sister.\nShe's talking to a parent.,She is talking to a parent.\nYou aren't listening to me!,You're not listening to me!\n",
+        "9\ne\nd\nb\na\nf\nc\n"
+      ],
+      [
+        "28\n",
+        "1\nMaximise your time in class\nMaximise your study between lessons\nIn your free time\n",
+        "2\nunderstand\nconcentrate\nrevise\nread\npronounce\ncheck\nlisten to\n",
+        "3\nLanguages\nMandarin and Arabic\nNationalities\nMoroccan, British and Australian\nBoth\nItalian, German, Spanish, Turkish, French, Greek, Dutch and Japanese\n",
+        "4\nAustralian\nDutch\nBritish\nJapanese\nRussian\nMoroccan\nTurkish\n",
+        "5\nJake’s new job is in the Netherlands with Eindhoven Football Club.\nYes. He practises online with some Dutch friends.\nMark wants to learn Japanese because a lot of Japanese people visit London on holiday.\nShe thinks it isn’t difficult to learn and it’s a really interesting language.\nBecause Fatima is Moroccan. Moroccans speak Arabic and French.\n"
+      ],
+      [
+        "29\n",
+        "7\n-ing\nYes\naren't\n",
+        "8\nare you doing\nAre you studying\nI'm not\nIs he going\nhe isn't\nare you shopping\nwe are\n",
+        "9\nStudents’ own answers. Possible answers:\nWhere are you sitting right now?\nWhy is your friend learning English?\nWho is your friend talking to today?\nWhat is your teacher wearing today?\nHow are your parents feeling at the moment?\n",
+        "10\nPC\nPS\n",
+        "11\nare sitting\nhave\n're preparing\n's talking\n's sleeping\ngets\nfeels\naren't looking\n",
+        "12\nHow often do you have English tests?\nWhat colour pen are you using right now?\nHow do you practise your English?\nWhat is your best friend doing now?\nDo you do your homework before or after dinner?\n"
+      ],
+      [
+        "30\n",
+        "2\nLiam wants to know the meaning of ‘demain’ in English and how to say ‘thanks very much’ in French.\n\n",
+        "4\nK\nV\nZ\nY\nW\nR\n",
+        "6\nStudents’ own answers. Possible answer:\nA Excuse me, Mr Jackson.\nB Yes Victoria, what’s the problem?\nA I don’t understand this word. What does ‘festeggiare’ mean?\nB It means ‘celebrate’. So that means, ‘They celebrate at home’.\nA Oh, I understand now. How do you say ‘birthday’ in Italian?\nB It’s ‘compleanno’.\nA Sorry? How do you spell that?\nB C-O-M-P-L-E-A-N-N-O.\nA Thank you!\n"
+      ],
+      [
+        "31\n",
+        "3\nS\nM\nP\n",
+        "4\nTry to listen to a bit of English every day.\nWrite down new words and test yourself.\nUse a website to listen to the pronunciation.\n",
+        "5\nreading\nspelling, vocabulary\nvocabulary,pronunciation\ngrammar, vocabulary\nlistening, pronunciation\n"
+      ]
+    ],
+    [
+      [" 3: Stay healthy\n"],
+      [
+        "32\n",
+        "1\nFrank: crisps\nLiam: roast dinner\n",
+        "2\npizza and curry\nvegetarian\n(a packet of) crisps, sandwiches, an apple\nSunday\nHe helps with the cooking.\n",
+        "4\ntuna sandwiches: Canada\nnoodles or a pizza: Australia\nlentils: India\nchicken and rice: Barbados\na curry or a pie: UK\n",
+        "5\nmilk\nfizzy drink\nchocolate\nham or sausage\nnuts\n(bread - not in the blog)\nsoup\n",
+        "6\ncoffee B\negg C\nonion C\npotato C\napple C\ntomato C\ntea B\ncarrot C\ncereal U\nlettuce B\nrice U\norange C\nbean C\nmeat U\nbutter U\nfish U\ncrisps C\n"
+      ],
+      ["33\n", "7\nsome\nany\nany\na\nsome\n"],
+      [
+        "34\n",
+        "1\nParagraph B\nParagraph C\nParagraph A\nParagraph E\nParagraph D\n",
+        "2\nThere is sugar and fat in fast food which gives you energy, but you lose the energy quickly and get tired and irritable.\nPeople often don’t sleep well after a big dinner.\nNuts help students concentrate in exams.\nStudies show that when people drink water before or during exams, their marks improve by 5%.\nPregnant women sometimes want to eat strange food because they need different vitamins and minerals for the baby\n",
+        "3\nb\nc\na\n"
+      ],
+      [
+        "35\n",
+        "6\nlots of\nmuch\nmany\nmuch\nmany\nHow\n",
+        "7\nmuch\nlots of\na lot of\nlots of\nhow many\n",
+        "8\nmany\nHow\nmuch\nof\nlots\n"
+      ],
+      [
+        "36\n",
+        "1\nHealthy activity\n\neat vegetables\nrun\ngo to a sports centre\nhelp your parents at home\ndo sport\nUnhealthy activity\n\nsit on the sofa\ndrink fizzy drinks\nplay video games\neat fast food\ngo to bed late\n",
+        "2\ntired\nfit\nwell\nlazy\noverweight\nunhealthy\nstrong\neasy\nsafe\n",
+        "4\nill\nlazy\nstrong\nfit\ntired\noverweight\ndangerous\nunfit\n",
+        "5\nJosh\nCharlie\nJosh\nKeira\nJosh\nCharlie\nCharlie\n"
+      ],
+      [
+        "37\n",
+        "8\ning\n\n",
+        "9\nlike, love, enjoy, don’t mind\nhate, can’t stand\nlove, hate, can’t stand\n",
+        "10\nWe love having spaghetti.\nRick hates/can’t stand doing his homework.\nAnn likes/enjoys reading The Hunger Games books.\nI hate/can’t stand cooking dinner.\nElla doesn’t mind studying History.\nI like/enjoy/love watching series about crime.\nJohn likes/enjoys/doesn’t mind eating healthy food.\nI hate/can’t stand getting up early in the morning.\n",
+        "12\nI don’t eat much fast food.\nI don’t mind shopping with my parents.\nI love having PE lessons.\nI don’t like playing or watching football.\nI don’t play many computer games.\n"
+      ],
+      [
+        "38\n",
+        "2\nKelly orders a chicken sandwich with chips and an apple juice.\n\n",
+        "4\nc\nd\ne\na\nb\n",
+        "6\nStudents’ own answers. Possible answer:\nA Hello. What would you like?\nB I’d like a cheese and tomato pizza, please.\nA Would you like some chips or salad with that?\nB I’d like some salad, please.\nA Certainly. Would you like something to drink?\nB Can I have some cola, please?\nA OK. Anything else?\nB No thanks. How much is that?\nA That’s £10.85, please.\n"
+      ],
+      [
+        "39\n",
+        "2\nstrawberry yoghurt\nan apple\n",
+        "3\n90\n0\n180\n3%\nA\nD\n"
+      ],
+      [
+        "40\n",
+        "1\nalways wake up\ndon't usually get up\nusually send\nhave\nhave\nhardly ever eat\ngo\nbrush\ngo\n",
+        "2\nJoe wakes up at 7:30, but he doesn’t usually get up then! He usually sends some messages on his mobile and at about 7:45 he has a shower. Then he has breakfast. Joe and his family hardly ever eat together because his mum and dad go to work at 7:45. After breakfast, Joe brushes his teeth and goes to school.\n\n",
+        "3\nWhen do you go out with your family?\nDoes your dad often watch TV in the evening?\nDo you always have dinner with your parents?\nDoes your family usually sing songs at Christmas?\nDo you sometimes help your parents in the kitchen?\n",
+        "4\nWhat are you doing?\nI’m writing my name in Mandarin.\nAre you studying Mandarin?\nam\nMy friend Li is teaching me.\nIs your brother travelling in Japan at the moment?\nisn’t\nHe’s visiting his girlfriend in China.\nHe’s posting some interesting photos on Facebook.\nWhich languages are you and Matt doing at school?\nWe’re doing German.\nAre you enjoying it?\naren’t\nMrs Smith is giving us lots of tests this year!\n",
+        "5\nAre you having\nI'm not\nalways eat\n'm checking\ndon't usually revise\n're\noften asks\ndoesn't like\nnever gives\n",
+        "6\nmuch\neating\nlots\nmind\na lot\nmany\ncan’t\nhaving\nenjoy\nmuch\n",
+        "7\nHi Francesca How are you? I’m not very well at the moment. I’m not doing any sport/exercise and I’m not eating much healthy food. I’m eating lots/a lot of chocolate, but I’m not eating (any) fruit or vegetables. I’m always tired. I hate being weak and unfit! What/How about you/And you? How much healthy food do you eat? Are you active or lazy? Bethany\nHi Bethany I’d like to have a healthy lifestyle. I usually do sport once a week and I eat healthy food, but I have/’ve got lots/a lot of exams this month. I’m revising in the evening and at the weekend! It’s really boring. Francesca\n\n"
+      ],
+      [
+        "41\n",
+        "8\nschool subjects (nouns) : PE, Maths, Music\n\nstudying languages (verbs) : repeat, spell, practise, revise\n\ncelebrations (verbs) : watch fireworks, burn candles, dance, play music\n\nhealth and lifestyle (adjectives) : strong,underweight,ill,active\n\nfood and drink (nouns) : sausage,pudding,cheese,tuna\n\ndaily routines (verbs) : go to school,watch TV,have a shower,have dinner\n\n",
+        "9\no\near\nake\nuice\nnergetic\nisten\nizzy\nifficult\nreek\nome\nend\napanese\n",
+        "10\nbowl\nout\nare in\nhead\ninvites\nbrush\nup\nbreak\nbath\ngiving\n",
+        "11\nAre there lots of people in your town?\nHas your mum got an expensive mobile?\nWhich languages are you studying this year?\nDo you like doing homework?\nHow often do your parents give you presents?\nWhat do you usually eat for breakfast?\nWhat does your dad enjoy doing at the weekend?\nAre you chatting with your friends at the moment?\nWhat time does your mum go to bed?\nAre you always very active?\n",
+        "13\nquestion words 3,5,6,7,9\nadverbs of frequency 6,10\nPresent simple 1,2,4,5,6,7,9,10\nPresent continuous 3,8\nverb + -ing 4,7\n"
+      ]
+    ],
+    [
+      [" 4: Big City\n"],
+      [
+        "42\n",
+        "1\nLondon, Cardiff, Edinburgh, Belfast, Birmingham, Glasgow.\n\n",
+        "2\n(nearly) nine million\na modern building in central London\nBelfast\n56\nGlasgow/Scotland\n",
+        "4\nA Dubai B Shanghai C Istanbul\n\n"
+      ],
+      [
+        "43\n",
+        "5\nbig\nbusy\nold\nmodern\nfar\nexpensive\nfamous\ncold\n",
+        "6\nStudents’ own answers. Possible answers:\nMount Everest is a very famous mountain situated in the Himalayas mountain range between Nepal and Tibet. It is 8,848 metres high. It is very cold at the top of the mountain with temperatures of -18°C to -36°C!\n\n",
+        "8\nStudents’ own answers. Possible answers:\nHow old is Istanbul?\nHow big is Istanbul?\nHow far is Los Angeles from one side to the other?\nHow long is the underground system in Shanghai?\nHow busy is Shanghai’s underground system?\nHow hot is it in Dubai in summer?\nHow tall is the Burj Khalifa skyscraper in Dubai?\nHow polluted is Cairo?\nHow wide is the River Nile?\n"
+      ],
+      [
+        "44\n",
+        "1\nb, d\n",
+        "2\nT\nF\nF\nT\nF\n",
+        "3\nugly\ntraditional\nfake\nexciting\ntiny\nbrave\n",
+        "4\ndark\nnoisy\nuncomfortable\ncheap\n"
+      ],
+      [
+        "45\n",
+        "7\ndon’t use\nuse\nDon’t\n",
+        "8\nTell\ndon't get\nwait\nGive\ndon't call\nsend\n",
+        "9\nStudents’ own answers. Possible answers:\nVisit\nKeep\nDon’t go out\nDon’t order\nStay\n"
+      ],
+      [
+        "46\n",
+        "1\nblock of flats\nrestaurant\nchurch\nmonument\nbridge\npedestrian street\nsports centre\nsquare\npark\nstation\nsupermarket\ncar park\n",
+        "2\n\"I like to walk there and sit under the trees\": Park\n\"It’s a good place to learn about the history of this town\": Museum\n\"What time does the pool open?\": Sports centre\n\"I’d like a cappuccino and a piece of cake, please\": Café\n\"I live on the third floor\": Block of flats\n\"Ambulances arrive here all the time\": Hospital\n\"Where is the men’s clothes section?\": Department store\n",
+        "4\npedestrian street, café, square, restaurant, hotel, monument, park, art gallery, bridge, shopping centre, department store, church, library, museum\n\n",
+        "5\nThey are students at a language school.\nStudents like to have their lunch there because it’s near the school.\nIt’s raining.\nThe bridge is between the shopping centre and the department store.\nThere’s a café on the bridge.\nIt’s opposite St. Matthew’s Church.\n"
+      ],
+      [
+        "47\n",
+        "7\non\nat\nin\n",
+        "8\nin\nat\non\nat\nat\nat\n",
+        "9\nacross\nalong\nalong\n",
+        "10\nalong\nnext to\npast\ndown\non\nover\nopposite\n",
+        "11\nout of; into\nbetween; around\nacross; up\nalong; under\nover; past\nthrough; down\n",
+        "13\nDo you live in a village, a town or a city?\nDo you prefer sunbathing on the beach or in a park?\nDo you go over a river on your way to school?\nDo you think walking through a forest at night is scary?\nDo you like cycling up hills?\n"
+      ],
+      [
+        "48\n",
+        "2\nOlivia wants to go to the train station. She walks across the road, past the hotel and the new school and under the bridge to get there.\n\n",
+        "5\nStudents’ own answers. Possible answer:\nA Excuse me. Do you know where the bank is?\nB The City Bank?\nA Yes.\nB Go across the square and turn right into High Street. Go straight on until you get to the hospital.\nA OK.\nB Then walk under the bridge. The bank is on your left, opposite the hospital. You can’t miss it.\nA How far is it?\nB It’s about five minutes by bike.\nA Thanks for your help.\nB You’re welcome\n"
+      ],
+      [
+        "49\n",
+        "2\nJoe and Toni want to go to the aquarium. They decide to go by bus because it is cheaper and they can see some more things on the journey\n\n",
+        "3\nmap, bus app, websites, guide book\n\n",
+        "4\nUnderground Line A or Bus Number 7\n20 minutes\n£9\n45 minutes\n"
+      ]
+    ],
+    [
+      [" 5: Do I look OK?\n"],
+      [
+        "50\n",
+        "1\nChris Hemsworth, Emma Watson\n\n",
+        "2\n1.90m\nSpain\nEnglish Literature\nBritish\nbrown\n",
+        "3\nA Taylor Swift\nB Taylor Lautner\nC Johhny Depp\nD Rihanna\nE Dwayne Johnson\nF Emma Stone\n",
+        "4\nbald\nwavy\nlong\nbrown\nblack\nblonde\ngreen\nsquare\nround\nthin\naverage\nmuscular\nmoustache\nfreckles\n"
+      ],
+      [
+        "52\n",
+        "2\nT\nF\nF\nF\nF\nT\nF\nF\n",
+        "3\nchanged\ndestroyed\nstayed\ncovered\ntravelled\npassed\npractised\ntouched\n",
+        "4\nsurvived\nwanted\nworked\nresearched\nexplained\ndied\n"
+      ],
+      [
+        "53\n",
+        "6\nwere\nwasn't\ndidn't\n",
+        "7\nwas\nstarted\nwanted\ncriticised\ndidn't like\nhated\nrealised\nwas\nasked\n"
+      ],
+      [
+        "54\n",
+        "1\ntaught\nbegan\nhad\nsaw\nspoke\nbecame\nmade\nsang\nwent\ngot\nflew\nwrote\nfelt\nmet\nthought\nfound\n",
+        "4\nshopping centre\ntrain\nLondon\nrestaurant\n",
+        "5\nGareth didn’t meet his doppelgänger.\nJackie’s doppelgänger was wearing a red dress similar to hers.\nShe posted lots of selfies online and wrote lots of messages on Facebook.\nBecause the waiter thought Gareth didn’t pay his bill the last time he was there.\nJenny\n"
+      ],
+      [
+        "55\n",
+        "6\nwere\nwas\nweren't\nDid\ndid\ndidn't\n",
+        "7\nDid you meet\nYes, I did\nDid your parents buy\nNo, they didn't\nDid Jake ask\nYes, he did\n",
+        "8\nc\nb\na\nd\n",
+        "9\nDid you buy any new clothes\nWhat happened\nWhere were you\nDid he see you\nNo, he didn't\nWas he surprised\n",
+        "10\nStudents’ own answers. Possible answers:\nWhen did you last go shopping?\nWhen did you last take a selfie?\nWhen did you last play a video game?\nWhen did you last download music?\nResponses are students’ own answers.\n",
+        "12\nWhere did you live ten years ago?\nWhen did you last change your hairstyle?\nWhen did you last have an English test?\nWhat did you do last weekend?\nWhere were you at nine o’clock last night?\nResponses are students’ own answers.\n\n"
+      ],
+      [
+        "56\n",
+        "2\nSophie saw her cousin Mia and some fantastic tennis players.\n\n"
+      ],
+      [
+        "57\n",
+        "2\nHarry\n100 people\n",
+        "3\nF. Melissa is in the photo and Harry took it.\nF. Around#people posted comments.\nT\nT\nF. Melissa is angry with her mum.\n"
+      ]
+    ],
+    [
+      [" 6: Achieve\n"],
+      [
+        "58\n",
+        "1\nNo, Harry’s heroes are his grandparents.\n\n",
+        "2\n4 (years old)\nShe does a lot for charity too.\n(a small town in) China\n17 (years old)\nHe met Harry’s grandmother and got married.\n",
+        "3\nminute\nday\nfortnight\nmonth\ndecade\nmillennium\nnought\nthird\ncouple\nhundred\nmillion\n"
+      ],
+      [
+        "59\n",
+        "4\ncenturies\ndecades\nhundred\ndays\nminutes\nbillion\nyears\nminute\nsecond\nhour\nseconds\nthousand\n",
+        "5\n✔️\n✔️\n19,314\n✔️\n1/3\n✔️\n✔️\n1,000\n✔️\n",
+        "7\n382,500 kilometres\n160 metres\n9.58 seconds\n69 hotdogs\nover 1,380,622,884 people\n"
+      ],
+      [
+        "60\n",
+        "1\nA\nC\nF\nB\nD\nE\n",
+        "3\nBirds have got very small brains, but some types of birds are very clever.\nWhen we are in danger, our brains process information much faster and time seems to go slower.\nThe average IQ for women is higher than for men, and women have more connections in their brains.\nBrains grow when you exercise them, just like a muscle.\nPlaying video games and looking at art stimulates the brain.\nIt’s important to drink a lot of water because the brain is mostly H2O.\n",
+        "4\nStudents’ own answers. Possible answers:\ne.g. For example (exempli gratia)\na.m. Before noon (ante meridian)\np.m. After noon (post meridian)\nPE Physical Education\nICT Information and Communications Technology\n",
+        "5\nPlease turn over\nAs soon as possible\nCurriculum Vitae\nRépondez s’il vous plaît (Please reply)\nPostscript (something written after the main text)\n"
+      ],
+      [
+        "61\n",
+        "7\n-er\n-est\n-ier\nmore\nmost\nbetter\n",
+        "8\nChimpanzees live longer lives than crows.\nCrows live shorter lives than dolphins.\nCrows have got smaller brains than dolphins.\nDolphins have got bigger brains than chimpanzees.\nDolphins are friendlier than chimpanzees.\n"
+      ],
+      [
+        "62\n",
+        "1\n1\n\n",
+        "2\nmechanics\narchitects\nphotographers\nnurses\nlawyers\npersonal assistants\n",
+        "3\nStudents’ own answers. Possible answers:\nA These people make meals in a restaurant. B Chefs.\n\n",
+        "4\n7\n",
+        "5\nT\nF\nT\nF\nT\nF\n"
+      ],
+      [
+        "63\n",
+        "6\ncan\ncould\ncould\ncouldn't\nsubject\ndon’t have\n",
+        "7\nCan you swim across the lake?\n✔️\nSimon can play the piano.\nI couldn’t finish my homework last night.\nMy brother couldn’t walk when he was one month old.\n✔️\nWe couldn’t communicate well in Kyoto because we can’t/couldn’t speak Japanese.\n",
+        "8\ncan\ncan't\ncould\ncould\ncould\ncouldn't\ncan\ncan't\n",
+        "9\nStudents’ own answers. Possible answers:\n…couldn’t sleep.\n…could play the guitar very well.\n…couldn’t speak French.\n…can do his Maths homework really quickly.\n…can take great pictures.\n…couldn’t hear you.\n…couldn’t chat online.\n…couldn’t cook very well.\n… can’t tell anyone.\n… can play tennis really well\n",
+        "12\nHave you got an older or younger brother or sister?\nWhat’s the most famous university in your country?\nWhich languages can you speak?\nCould you ride a bike when you were six years old?\nWhat are you better at now than five years ago?\nResponses are students’ own answers\n\n"
+      ],
+      [
+        "64\n",
+        "2\nKelly’s brother won a prize.\n\n",
+        "4\nb\ne\nd\na\nc\n"
+      ],
+      [
+        "65\n",
+        "2\nNeither\nA\nB\n",
+        "3\nB\nB\nA\nB\nA\nA\nA\nB\nB\nA\n",
+        "4\nSpeak in a quiet voice.\nFace the board when you talk.\nWorry about what the audience is thinking.\nReasons are students’ own answers.\n"
+      ],
+      [
+        "66\n",
+        "1\nDon't go\nthrough\nDon't walk\nalong\ngo\npast\ndon't cross\nover\nCome\ninto\nDon't go\nout of\nDon't run\nup\nWalk\nacross\nMeet\nat\n",
+        "2\nI wasn't at home yesterday.\nThere wasn't a station here five years ago.\nYou didn't answer my message.\nThey were born in this country.\nPerry uploaded the photos.\nI didn't understand the question.\nMy dad chatted to his parents.\nShe tried French food last weekend.\nMarty went to bed at 9:30.\nSam chose some new glasses this morning.\n",
+        "3\nDid you have\ndid\nwas\nhad\nDid you know\ndidn't\nwere\narrived\nWas he\nwas\ntaught\nwas\ndid all the girls like\ndid\n",
+        "4\nmore intelligent\nthe most intelligent\ncan\ncan’t\ncould\ncan\nlarger\nthan\n",
+        "5\nAfrican elephants are heavier than Asian elephants. They can weigh up to 550kg.\nCats travel further than people think. A cat can travel almost a kilometre from home.\nPenguins live in some of the coldest places on the planet. They can’t fly, but they can swim well.\nZebras can see well. Their vision is better than other animals because they need to see their predators.\nCamels live in some of the world’s hottest places so they can live without water for months.\n",
+        "6\nthe most fascinating\nwent\nliked\ndidn't have\nwanted\ncouldn’t\naround\nweren't\nmore modern\nmore elegant\ntravel\ncan\ndon't visit\nthe worst\ncan’t\n"
+      ],
+      [
+        "67\n",
+        "7\nIncorrect words:\n\nfreckle\npolluted\nwide\nnought\nbridge\ncurly\nCategories:\n\nplaces in a town\nirregular verbs\ndescribing people\ntime words\njobs\ndescribing places\n",
+        "8\nancient\nshopping centre\nstraight\nfascinating\na fortnight\ncounsellor\na few\nnurse\ntaught\ngoatee\n",
+        "9\nsports\nstreet\nstore\nlook\ncurly\ntall\nhigh\ngood\nguess\n",
+        "10\nWhat do you hate doing?\nHow often do you go to a shopping centre?\nWhere were you last night?\nWhat can you do well?\nHave you got a favourite hobby?\nAre you enjoying learning English?\nDid you have a big breakfast yesterday?\nHas your mum got blonde spiky hair?\nCould you spell your name in English last year?\nHow long does it take you to go to school in the morning?\nWhich is the most attractive place in your town?\n",
+        "12\nHi Mark\nYesterday was a great day! In the morning I went to the new museum. It’s in the centre. Go past the big church and it’s between the French restaurant and the sports centre. It was noisy because there were a lot of people in the museum. I saw some ancient and fascinating books. The morning was interesting, but the afternoon was better because I met a really nice girl at the bar. Her name’s Sally and she’s got curly, blonde hair and big, blue eyes. I think she’s the most beautiful girl in the world!\nHave a good day!\nSam\n\n"
+      ]
+    ],
+    [
+      [" 7: Going away\n"],
+      [
+        "68\n",
+        "1\nLondon, Brighton, Cornwall, the Lake District\n\n",
+        "2\nJuly and August\nThe British Museum\nCornwall\n15\ncycle, walk through the countryside, take a boat trip, enjoy the beautiful views of the hills\n",
+        "3\nbeach holidays, dive, conservation holiday, buy souvenirs, cycle, swim\n\n",
+        "4\nCouchsurfing is a website you can use to find free accommodation in local people’s houses.\nPop-up events are events which only happen once, like a one-night concert, a party or a temporary shop.\n\n"
+      ],
+      [
+        "70\n",
+        "1\nCharyn Pfeuffer\nMatt Green\nNiall\nNatalie and James Allen\nMike\n",
+        "2\nThey gave the money to charity.\nNo, she didn’t.\nNo, she worked as a volunteer.\nThe organisers decide which is the most original idea.\nThey’re planning to go to the village where their mum was born and grew up.\nYes, because she wants to contact and meet all the other people who have her name.\nNiall needs money to organise his trip because his parents don’t want to go to his preferred destinations.\n",
+        "3\nfans\ngrounds\nbegin\nstreets\naim\n",
+        "4\nI'm frightened of roller coasters. I just watch when my friends ride them.\nWe went on a fantastic safari holiday last year in Tanzania.\nOur hotel was terrible. I never want to stay there again.\nDo you know the expression 'a flying visit'?\nI'm having a really good time. I never want this holiday to finish.\nLet's take the lift to the top of this tall building and enjoy the views.\n"
+      ],
+      [
+        "71\n",
+        "6\nisn't\nsubject\nam\naren't\n",
+        "7\n's going to drive\n'm going to stay\naren't going to have\n's going to paint\n'm going to relax\nAre you going to visit\n",
+        "8\nStudents’ own answers. Possible answers:\nAre you going to get up late tomorrow morning?\nAre you going to help with the housework tonight?\nAre you going to take a photo of yourself next month?\nAre you going to learn a new language next year?\nAre you going to live in another country one day?\nResponses are students’ own answers.\n\n"
+      ],
+      [
+        "72\n",
+        "2\nlightning\nrainy\nrain\nhot\ncold\nfreezing\nicy\nwindy\n",
+        "4\nb\nc\nc\nb\n"
+      ],
+      [
+        "73\n",
+        "5\n'll\nwon't\nsubject\nwill\nwon't\n",
+        "6\nwill holidays change\nwill help\nwill become\nwon't have\nwon't carry\n'll pay\nWill we still fly\nwon't use\n'll be\n'll travel\n",
+        "7\nIs already made\n",
+        "8\nStudents’ own answers. Possible answers:\n‘m not coming\nare you going\n‘re visiting\n‘m meeting\n‘s not taking\nAre you going skiing\n‘m not flying\n",
+        "9\nb\nc\na\n",
+        "10\nWe’re going on holiday to France this summer.\nI’d love to go to Antarctica.\nI’m not going to meet my friends after school today.\nI think it’ll rain next weekend.\nThe weather won’t be very nice in July.\nResponses are students’ own answers.\n\n"
+      ],
+      ["74\n", "2\nFrank forgot about meeting his dad.\n\n"],
+      [
+        "75\n",
+        "2\nThailand\nEgypt\nScotland\n",
+        "3\nTouching someone’s head. This is rude.\nStanding too close. This is rude.\nNot queueing and shouting. Both of these are rude\n"
+      ]
+    ],
+    [
+      [" 8: In the wild\n"],
+      [
+        "76\n",
+        "1\nexcited, nervous\n\n",
+        "2\nfour days\nwith a group\nover 70 kilometres\na tent, (lots of) things to eat and drink, a stove, a rucksack, a map, a compass\n20 kilograms\n",
+        "3\nclimb\navoid\nbuild\nfollow\nuse\npick\nmake\ncatch\nhunt\nkeep\n",
+        "5\na\na\nb\na\nb\nc\n"
+      ],
+      [
+        "77\n",
+        "6\nStudents’ own answers. Possible answers:\nfollow it.\nlight a fire.\navoid it.\nuse the sun.\nclimb it.\nmake a noise!\n",
+        "8\nJosh chose finding drinking water, catching animals for food and lighting a fire.\n\n"
+      ],
+      [
+        "78\n",
+        "3\nTom Woods\nPeter Quinn\nTed Wilson\nSophie Jenkins\nTina Brent\nJenny Frome\n",
+        "4\na, noun.\nb, adjective\nb, adjective\na, adjective\n",
+        "5\nbook (noun)\nlight (adjective)\nsign (noun)\nbook (verb)\nwatch (noun)\nlight (noun)\nwatch (verb)\nsign (verb)\n"
+      ],
+      [
+        "79\n",
+        "7\nresult\naction\nresult\nresult\n",
+        "8\nswim\nmight get\ndon't cross\nwon't get\nwill be\nbuild\ngo\n'll make\n"
+      ],
+      [
+        "80\n",
+        "1\nA rope\nB mirror\nC first-aid kit\nD torch\nE sleeping bag\nF lighter\nG compass\nH knife\nI insect repellent\nJ suncream\n",
+        "3\nUseful ✔️: knife, tent, water bottle, hat, sleeping bag, mirror, torch Not useful ❌: lighter, map\n\n",
+        "4\nYou learn how to hunt and make a shelter, and what plants you can eat.\nBecause you have to carry everything in your rucksack.\nThey teach you to light a fire.\nBecause you’ll burn in the sun.\nIt’s over#°C during the day and only#°C at night.\nThere aren’t any roads.\nUse your mirror or your torch to signal for help.\n"
+      ],
+      [
+        "81\n",
+        "6\nshould\nshouldn’t\nmust\nmustn’t\n",
+        "7\nshould\nmustn’t\nshouldn’t\nshould\nmustn’t\nshould\n",
+        "8\nI\nI\nI\nI\nI\nI\nC\nI\n",
+        "9\nYou shouldn’t leave the group - it’s easy to get lost out here.\nShould we put our tent here?\nYou mustn’t go near that animal - it’s dangerous.\nYou should prepare carefully: only take useful things.\nTom fell and hurt his leg. We should tell the guide.\nShould I take a compass on the trip?\n✔️\nYou should take a warm sleeping bag. It’s more comfortable.\n",
+        "10\nStudents’ own answers. Possible answers:\nYou should bring some water to drink.\nYou mustn’t light fires.\nYou shouldn’t forget your suncream.\nYou must buy a parking ticket for your car.\nYou shouldn’t sunbathe between#a.m. and#p.m.\nYou should report problems to the lifeguards.\nYou mustn’t swim when you see a red flag.\nYou shouldn’t touch the jellyfish.\n",
+        "12\nYou must drink lots of coffee when you’re in the desert.\nWhen you haven’t got a compass, you should use the Moon to help you.\nYou mustn’t stay on the paths in this National Park.\nYou must swim in the sea when the weather is stormy.\nYou shouldn’t put suncream on your face before you go out in the sun.\nCorrect sentences\n\nYou must drink lots of water when you’re in the desert.\nWhen you haven’t got a compass, you should use the Sun to help you.\nYou must/should stay on the paths in this National Park.\nYou mustn’t/shouldn’t swim in the sea when the weather is stormy.\nYou should put suncream on your face before you go out in the sun.\n"
+      ],
+      ["82\n", "2\nSam can’t fit everything in his rucksack.\n\n"],
+      [
+        "83\n",
+        "2\nThe campsite shop is closed so the boys can’t buy food for dinner; neither of the boys has a signal on their phones; the village pub is closed; Joe can’t find his sleeping bag.\n\n",
+        "3\nF. The boys have no signal on their phones.\nF. The village pub is closed.\nF. The woman doesn’t know if the pub in Bibury serves food.\nT\nT\n"
+      ]
+    ],
+    [
+      [" 9: It's my life\n"],
+      [
+        "84\n",
+        "1\nsee the lights, watch the (free) convert, listen to music, dance, eat (delicious) food, watch the fireworks\n\n",
+        "2\nfive days\nautumn\nsweets and clothes\nbecause of the street decorations\nthe big fireworks display\n",
+        "3\nParagraph 5\nParagraph 4\nParagraph 3\nParagraph 1\n"
+      ],
+      [
+        "85\n",
+        "4\nbarbecue\ndemonstrations\nexhibitions\nre-enactment\nstreet parties\nrace\n"
+      ],
+      [
+        "86\n",
+        "2\nA must-see event for superhero fans\nStories inspire us to new things\n",
+        "3\nF. Over 100,000 fans attend the Comic-Con event.\nT\nF. He designed a costume for the event.\nT\nT\nF. Rebecca’s parents are sending her to a Hunger Games camp this summer.\n",
+        "4\ncome round\nturn up\nfind out\ndress up\n",
+        "5\nd\na\ne\nc\nb\n"
+      ],
+      [
+        "87\n",
+        "7\nhasn’t\nhave\n-ed\never\n",
+        "8\nd - He’s painted lots of amazing pictures.\nc - I’ve never visited the city.\nf - He hasn’t/He’s never introduced us.\na - She’s written five books.\nb - I’ve never watched it.\ne - We’ve tried it a few times.\n"
+      ],
+      [
+        "88\n",
+        "1\nBethany has done: 1, 2, 5, 6, 7, 8.\n\n",
+        "2\nthought\nslept\nbeen\nfallen\nread\nwritten\nflown\nput\neaten\nfound\ngone/been\nheard\n",
+        "5\nconcert\nradio\nwebsite; thousands\nworld records\nhas sailed\nAmerican football\n"
+      ],
+      [
+        "89\n",
+        "6\nPresent perfect\nPast simple\n",
+        "7\nhas helped\nlearnt\ndidn’t have\ndecided\nbegan\nused\nhas paid\nhas changed\nhas never stopped\nwon\n",
+        "8\nhas tried; joined\nhaven’t seen; Was\nhas climbed; taught\nbecame; has won\nhave visited; went\nhas made; didn’t like\n",
+        "9\ndidn’t answer\nHave I ever mentioned\nhas lived\nsent\n‘ve never visited\nhave you heard\nlooked at\n",
+        "10\nHave you ever ridden an elephant?\nWhere did you and your family go on holiday last summer?\nHave you ever played in a band?\nHas anyone in your family visited the USA?\nWho came to your last birthday party?\nHave you ever won a prize for anything?\nResponses are students’ own answers.\n\n",
+        "11\nI’ve never watched a procession in my town.\nMy family and I have tried a lot of different foods.\nI’ve seen the Northern Lights a few times.\nMy mum and dad haven’t travelled to any countries in Europe.\nI haven’t climbed a mountain but I’ve driven a fast car.\n"
+      ],
+      ["90\n", "2\nThey decide to see the new bands first.\n\n"],
+      [
+        "91\n",
+        "2\nThey decide to go to the Notting Hill Festival in London.\n\n",
+        "3\nA 6\nB 5\nC 1\nD 2\nE 4\nF 3\n"
+      ],
+      [
+        "92\n",
+        "1\n‘ll meet\naren’t going to do\n‘m playing\n‘re getting\n‘s going to\nwill win\n‘m going to bring\n",
+        "2\nare travelling\n‘ll be\n‘m going to take\n‘m meeting\nwon’t want\n‘s not/isn’t coming\n",
+        "3\nmust\nwill\nshouldn’t\nmustn’t\nmight\nshould\n",
+        "4\nHave you ever seen\nI have\nsaw\nwere you\nwas\n‘ve stayed\n‘ve never seen\ndid it look\nran away\nleft\nHas he ever trekked\nhe hasn’t\n‘s done\ntravelled\nHave you ever travelled\nwe haven’t\n",
+        "5\nHi Tricia\nI’ve never been to England, but next summer I’m going to spend a month there with an English family. My friend Paolo lived with an English family last year and he learned/learnt a lot. He thinks that it’s the best holiday that he’s ever had! If the family is nice, I might survive! Paolo thinks/reckons that I shouldn’t be scared, but he doesn’t understand. I’ve never been to another country! Tonight at eight I’m speaking to/with the family for the first time. I’m going to ask them a lot of/lots of questions about England. What will I do if I don’t understand them? I think I’ll cry!\nIn my next email I’ll tell you how it went!\nElena\n\n"
+      ],
+      [
+        "93\n",
+        "6\ncompass\nfog/foggy\nsunbathe\nbuild; shelter\nbuy souvenirs\nboiling\nknife\nstay still\nfallen\ngig\n",
+        "7\nice\nwon\ncruise\npick\nexhibition\nexplore\nworn\nlightning\ntorch\nplay\n",
+        "8\ngoing\ntaking\nholidays\nclimbing\nbag\naid\nhunt\ncatch\naway\nup\n",
+        "9\nDid you see a gig last year?\nHave you and your family ever been to Australia?\nWhere did you go last Saturday?\nAre you meeting a friend tonight?\nHave you ever slept in a sleeping bag?\nWhat did your mum do yesterday?\nHow good was your English a year ago?\nWho was the tallest boy in your class last year?\nWhat will you do if you don’t have any homework tonight?\nWhat will your life be like in ten years?\n",
+        "11\nQuestions 1, 3, 6, 7and 8\nQuestion 4\nQuestion 9\nQuestions 2 and 5\nQuestion 10\nWorkBook (WB)\nWB Build-up\n"
+      ],
+      [
+        "98\n",
+        "1\n‘m\n‘re\n‘s\n‘re\n‘s\n‘re\n",
+        "2\nI’m not fifteen.\nYou aren’t from Italy.\nHe isn’t my\nfriend.\n\nThe book isn’t very good.\nMy brothers aren’t\ninto skateboarding.\n\nJack and Alex aren’t at a football game.\n",
+        "3\nI\nHe\nThey\nWe\nIt\nYou\n",
+        "4\nour\nhis\nmy\nIts\nHer\nTheir\n",
+        "5\nMax’s\nMy English and Italian teachers’\nYour dad’s\nThe students’\nRyan’s and Anna’s\nMy two brothers’\n",
+        "6\nAre Alice and Sophie sixteen?\nYes, they are.\nIs your laptop on your desk?\nNo, it isn’t.\nAre we near your house?\nYes, we are.\nIs your mum good at English?\nYes, she is.\nAre you from Dublin?\nNo, I’m not.\n",
+        "7\nc\ne\na\ng\nf\nd\nb\n",
+        "8\nWho\nWhen\nWhich\nWhere\nHow\nWhat\nWhy\n"
+      ],
+      [
+        "99\n",
+        "9\nThose\nThat\nThese\nThis\nthose\n",
+        "10\nhaven’t got\n‘s got\n‘ve got\nhasn’t got\n‘ve got\nhasn’t got\n",
+        "11\nHave Liam and Jake got a laptop?\nYes, they have.\nHas Maria got a tablet?\nYes, she has.\nHave Liam and Jake got a tablet?\nNo, they haven’t.\nHas Maria got a friend in London?\nNo, she hasn’t.\nHave Liam and Jake got a friend in London?\nYes, they have.\n",
+        "12\na\nan\nsome\nany\nany\nan\nany\n",
+        "13\nAre there; there’s\nIs there; there is\nAre there; there aren’t\nHow many; There are\nIs there; there isn’t\nHow many; There’s\nAre there; there are\nHow many; There are\n",
+        "14\nher\nit\nthem\nme\nhim\nyou\n"
+      ],
+      [
+        "100\n",
+        "1\nB\nE\nF\nC\nA\nD\n",
+        "2\nin\ninto\nat\nnot\nfavourite\ngood\n",
+        "3\nPossible answers:\nAndrea and Marco are good at music.\nGaia is into films.\nGabriele is interested in video games.\nSara and Pietro are into sport.\nMatilde isn’t interested in the Internet.\nSimone and Elisa aren’t into animals.\n",
+        "4\nF\nK\nH\nB\nJ\nM\nE\nL\nO\nN\nP\nD\nQ\nS\nI\nG\nR\nA\nC\n"
+      ],
+      [
+        "101\n",
+        "5\ndesk\nposter\nwindow\nboard\nCD player\nexercise book\nrucksack\ntablet\n",
+        "6\nabove\nin front of\nbehind\nunder\non\nin\nopposite\nnext to\nnear\nbetween\n",
+        "7\nPossible answers:\nMy chair is near the window.\nThe CD player is on a desk.\nThe door is between a poster and a shelf.\nThe board is opposite the clock.\nFabio’s pencil case is in his rucksack.\n",
+        "8\nnice\nboring\ninteresting\ncheap\nslow\nunpopular\nold\nbad\nsmall\n",
+        "9\nnew\nold\nfast\nbig\nsmall\ngood\npopular\ncheap\n",
+        "10\nPossible answers:\nreally nice\nquite interesting\nisn’t very old\nreally boring\nisn’t very interesting\nvery popular\nvery expensive\nreally fast\n",
+        "11\nD\nB\nA\nJ\nI\nF\nG\nH\nE\nC\nK\nL\n",
+        "12\nPossible answers:\nI’ve got a purse.\nI haven’t got a camera.\nI’ve got money.\nI’ve got keys.\nI haven’t got a watch.\nI’ve got a mobile phone.\nMy friend Chiara’s got sunglasses.\nLuca and Matteo haven’t got earrings.\nMy friends Martina and Noemi have got ID cards.\nMy friend Leonardo’s got a wallet.\nMy friend Ricardo’s got a book.\nMy friend Aurora hasn’t got an MP3 player.\n",
+        "13\nmum\ndad\ngrandma\ngrandad\n",
+        "14\nmother; father\naunt; uncle\ngrandson; granddaughter\nbrother; sister\ndaughter; son\ngrandmother; grandfather\n",
+        "15\nPossible answers:\n\nAn aunt is a mother’s sister or a father’s sister.\nA cousin is an aunt’s child or an uncle’s child.\nAn uncle is a mother’s brother or a father’s brother.\nA grandson is a son’s son or a daughter’s son.\nA granddaughter is a son’s daughter or a daughter’s daughter.\nA grandfather is a mother’s father or a father’s father.\n"
+      ],
+      [
+        "104\n",
+        "1\n‘m\n‘s\n‘s\nisn’t\nare\naren’t\nare\naren’t\naren’t\n‘m not\n",
+        "2\nOur\nIt\nyour\nThey\nMy\nHis\nWe\nTheir\n",
+        "3\nThey’re the teachers’ dictionaries.#It’s Luke’s clock.\nIt’s Amy’s CD player.#They’re our friends’ rucksacks.\nIt’s Zak’s pencil case.\n",
+        "4\nI am\nI’m not\nIs\nshe isn’t\nIs\nit is\nAre\nthey aren’t\nis\nit is\n"
+      ],
+      [
+        "105\n",
+        "5\nPossible answers:\n\nAre you fifteen?\nYes, I am./No, I’m not.\nIs your teacher from London?\nYes, he/she is./No, he/she isn’t.\nAre your friends interested in video games?\nYes, they are./No, they aren’t.\nIs your favourite pen in your bag?\nYes, it is./No, it isn’t.\nAre you good at music?\nYes, I am./No, I’m not.\nIs your home near your school?\nYes, it is./No, it isn’t.\n",
+        "6\nWhat is; Beijing\nWho are; Frozen\nWhere is; the USA\nWho is; tennis\nWhat is; dollar\n",
+        "7\nthis\nThis\nThis\nthose\nThat\nThat\nthese\nThis\n",
+        "8\nHas your brother got expensive sunglasses\nhe has\nHave you got that new video game\nI haven’t\nHave we got English today\nwe have\nHas she got her keys\nshe hasn’t\n"
+      ],
+      [
+        "106\n",
+        "10\na\nsome\nany\nSome\nany\nan\nsome\na\nany\n",
+        "11\nHow many chairs are there\nThere’s one chair in my room.\nHow many posters are there\nThere aren’t any posters in my mum and dad’s room.\nHow many windows are there\nThere are four windows in the classroom.\nHow many books are there\nThere’s one book on my desk.\nHow many tablets are there\nThere are three tablets\n",
+        "12\nyou\nme\nher\nit\nit\nthem\nus\nhim\n",
+        "1\nmy\nThey\ntheir\nher\nshe\nhis\nhis\nhe\n",
+        "2\nPossible answers:\nWhen’s your break?\nIt’s at 10.30. It isn’t at 11.00.\nWhen’s Tom’s birthday?\nIt’s in March. It isn’t in October.\nWhere’s Cardiff?\nIt’s in Wales. It isn’t in Scotland.\nWhat’s in your bag?\nThere’s a pencil case. There isn’t a laptop.\nWho’s got a tablet?\nDad’s got a tablet. My sister hasn’t got a tablet.\nWho’s your favourite musician?\nIt’s Jovanotti. It isn’t Ligabue.\nWhere’s Gemma’s rucksack?\nIt’s under her desk. It isn’t on her chair.\nWho’s got Gemma’s rucksack?\nI’ve got Gemma’s rucksack. Gemma hasn’t got her rucksack.\n\n",
+        "3\nPossible answers:\nI’ve got some new earrings.\nMy sister hasn’t got any interesting earrings.\nI’ve got an old camera.\nDavide hasn’t got a good camera.\nI’ve got a nice big purse.\nMy grandmother hasn’t got a new purse.\nI haven’t got an expensive wallet.\nAdriana’s got a small wallet.\nI’ve got some cheap sunglasses\nMy brother hasn’t got expensive sunglasses.\nI haven’t got a nice new wallet.\nGrandad’s got a very old watch.\n\n"
+      ],
+      [
+        "107\n",
+        "1\n‘m\n‘s\ngood\nphotography\nShe\ninto\nHer\nare\nI\n‘re\nTheir\nthey\nat\ninterested\n",
+        "2\nIs; Yes, it is.\nIs; No, it isn’t.\nAre; Yes, they are.\nIs; Yes, it is.\nIs; No, it isn’t.\nIs; No, it isn’t.\nAre; No, they aren’t.\n",
+        "3\n\nPossible answers:\nWhere’s the tablet?\nIt’s in the rucksack.\nWhere are the speakers?\nThey’re on the desk.\nWhere’s the exercise book?\nIt’s on the shelf.\nWhere’s the window?\nIt’s next to the shelf.\nWhere’s the rucksack?\nIt’s under the chair.\nWhere are the pencils?\nThey’re in the pencil case.\n\n",
+        "4\nHave\n‘ve\nexpensive\nbig\ncameras\nThis\npopular\ngot\ncamera\nhas\nhaven’t\nwallet\n",
+        "5\nany\nsister\nhusband\nthere are\nthere’s\ncousins\nsome\nthem\nan\na\nme"
+      ]
+    ]
+  ]
+}

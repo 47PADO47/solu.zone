@@ -1,6 +1,12 @@
 # Changelog
 
 
+## 14/04/2022
+
+    - Added lfl A2 and B2
+    - Updated books with "\n"
+    - Updated scripts
+
 ## 09/04/2022
 
     - Added meta tags

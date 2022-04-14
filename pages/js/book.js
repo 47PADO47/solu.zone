@@ -86,7 +86,8 @@ function handleHTML(page, div) {
 
         const dots = exercise.slice(number.length).split('.').join('.<br>');
         const commas = dots.split(',').join(',<br>');
-        const final = commas.split(';').join(';<br>');
+        const semicolon = commas.split(';').join(';<br>');
+        const final = semicolon.replace('\n', '<br>');
 
         const p = document.createElement('p');
         p.innerHTML = `<b>${number})</b> ${final}`;
