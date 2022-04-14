@@ -3,7 +3,7 @@
   "units": true,
   "data": [
     [
-      [" 1\n"],
+      ["1\n"],
       [
         "7\n",
         "3\n1. Play 2. Have 3. Do 4.Go 5. Meet 6. Go 7. Watch 8. Go 9. Stay 10. Watch 11. Do 12. Play 13. Use 14. Go 15. Go 16. Go 17. Cook 18. Listen 19. Draw 20. Make\n\n",
@@ -42,7 +42,7 @@
       ]
     ],
     [
-      [" 2\n"],
+      ["2\n"],
       [
         "17\n",
         "4\nPainful, helpful, successful, useful, careful.\n\n",
@@ -64,14 +64,10 @@
         "10\nyounger\nthe most expensive\nthe best\nmore exciting\neasier\nthe tallest\nthe craziest\nmore interesting\nthe most comfortable\ndirtier\nthe strictest\nPag.20\n",
         "4\nwere they\nisn't she\ndoesn't he\ndo you\ndidn't she\nare you\ndid they\nwasn't it\n"
       ],
-      [
-        "21\n",
-        "2\n✅\n✅\n❌\n✅\n✅\n",
-        "3\n2.✅ 3.✅ 4.✅ 5.✅ 7.✅\n\n"
-      ]
+      ["21\n", "2\n✅\n✅\n❌\n✅\n✅\n", "3\n2.✅ 3.✅ 4.✅ 5.✅ 7.✅\n\n"]
     ],
     [
-      [" 3\n"],
+      ["3\n"],
       [
         "22\n",
         "3\nEngland, France, Ireland, Italy, Scotland, Wale\nsix\nPyongyang, North Korea\n23.77m\nThe Tour de France\njudoka\nathletics\nIt's a goal and the match continues!\n",
@@ -114,12 +110,7 @@
         "2\nWhat's Chiara doing this week?\nDo Chiara's friends like social media?\nIs Chiara enjoying the project?\nHow often does Chiara use Facebook?\nWhat type of activities does Chiara prefer?\nWhat are Chiara and Marc doing at the moment?\nWho are Chiara and Marc getting help from?\n",
         "3\n✔️\n",
         "4\nWere you sleeping when Maria arrived?\nDid I call while you were watching TV?\nPeter was listening to music when his MP3 broke.\nThe teacher looked at Marissa while she was cheating.\nI wasn’t looking when we scored.\nThe player didn’t catch the ball while she was running\n",
-        "5\nWe usually speak to our teacher politely.\nDo Manchester "
-      ]
-    ],
-    [
-      [
-        "ed always beat Chelsea easily?\nI never study hard.\nLast night Maria sang beautifully.\nMarco plays tennis terribly.\nDoes David usually write quickly?\n",
+        "5\nWe usually speak to our teacher politely.\nDo Manchester United always beat Chelsea easily?\nI never study hard.\nLast night Maria sang beautifully.\nMarco plays tennis terribly.\nDoes David usually write quickly?\n",
         "6\nAre you enjoying\n'm writing\n'm\ncome\nusually win\naren't doing\nwell\nfelt\nbad\nwas\nslower\nthan\ndidn't win\nwas\nbest\nwere cycling\nfast\nfell\ndidn't see\nhit\nfell\nbroke\nhurt\n're competing\nmore\n"
       ],
       [
@@ -131,7 +122,7 @@
       ]
     ],
     [
-      [" 4\n"],
+      ["4\n"],
       [
         "34\n",
         "1\nmemory\nnose\ntaste\n",
@@ -158,13 +149,10 @@
         "8\nPP\nPS\nPS\nPP\nPS\nPS\nPP\nPS\nPS\n",
         "9\ndidn’t see\nHave you been\nwent\nDid you enjoy\nHave you tried\nI’ve never been\nI didn’t want\nI really enjoyed\nI’ve never experienced\n"
       ],
-      [
-        "39\n",
-        "3\naccessible\nlevels\ndescription\ntouch\nvideos\n"
-      ]
+      ["39\n", "3\naccessible\nlevels\ndescription\ntouch\nvideos\n"]
     ],
     [
-      [" 5\n"],
+      ["5\n"],
       ["40\n", "3\nb\nc\nd\na\n"],
       [
         "41\n",
@@ -196,7 +184,7 @@
       ["47\n", "3\nT\nF\nF\nT\nF\nT\n"]
     ],
     [
-      [" 6\n"],
+      ["6\n"],
       [
         "48\n",
         "3\nwar\nartificial intelligence\ntime travel\nrobot\ncrime wave\nepidemic,epidemic,\nglobal catastrophe\nAliens\nextinction,extinction.\nspace station\nvirtual reality,virtual reality.\nrevolution\nSpace travel\ncolonies\nevolution\n"
@@ -248,7 +236,7 @@
       ]
     ],
     [
-      [" 7\n"],
+      ["7\n"],
       [
         "58\n",
         "3\n100 million\nweeks\n4%\nminutes\n25\n13.5 million\n17\n€1000\n80\n35\n"
@@ -288,7 +276,7 @@
       ]
     ],
     [
-      [" 8\n"],
+      ["8\n"],
       [
         "67\n",
         "5\ndo\nfail, pass\nrevise\nbreak, obey\nchoose, drop\nget\nsign up\nget\ntake\nattend\n",
@@ -323,7 +311,7 @@
       ["73\n", "3\nF\nF\nT\nT\nF\n"]
     ],
     [
-      [" 9\n"],
+      ["9\n"],
       ["75\n", "4\nC\nD\nA\nE\nF\nB\n"],
       ["76\n", "1\nB\nD\nC\nA\n", "2\nC\nC\nC\nA\nB\n"],
       [
@@ -540,11 +528,7 @@
         "5\nmiserable\ndelicious\nterrible\ngorgeous\nexhausted\nterrifying\n",
         "6\namazing\ngorgeous\nfascinating\nhideous\ntasty\nterrifying\nawful\nexhausted\n"
       ],
-      [
-        "119\n",
-        "7\nC\nA\nD\nB\n",
-        "8\nc\na\nb\nc\na\nc\nb\nb\n"
-      ],
+      ["119\n", "7\nC\nA\nD\nB\n", "8\nc\na\nb\nc\na\nc\nb\nb\n"],
       [
         "120\n",
         "1\n've never slept\nhasn't read\nHave you ever worn\nhaven't travelled\nHas your brother ever appeared\n've never cheated\n",
@@ -803,11 +787,7 @@
         "4\nInequality\nDisadvantaged\neducation\nequal rights\nscientific research\nemployment\ngender equality\ntechnology\nhomelessness\n",
         "5\ndisease\nunemployment\ndiscrimination\nRefugees\nvaccinations\nDisabled people\nhomeless people\nscholarship\nHealth care\nracism\n"
       ],
-      [
-        "169\n",
-        "8\n✔️\n❌\n✔️\n✔️\n❌\n",
-        "9\nT\nT\nF\nF\nT\nT\nF\nF\n"
-      ],
+      ["169\n", "8\n✔️\n❌\n✔️\n✔️\n❌\n", "9\nT\nT\nF\nF\nT\nT\nF\nF\n"],
       [
         "170\n",
         "1\nmight\nmust\nmight not\ncan’t\nmust\n",

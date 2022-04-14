@@ -45,7 +45,7 @@ async function updateHTML() {
     data.forEach(element => {
         if (!units) return handleHTML(element, div);
         const unit = document.createElement('h1');
-        unit.innerText = "Unità" + element[0];
+        unit.innerText = "Unità " + element[0];
 
         const br = document.createElement('br');
 
@@ -73,7 +73,7 @@ function handleHTML(page, div) {
     if (!page) return console.log('%c [ERROR]', 'font-size: 1.5em; color: #ff0000;', 'handleHTML() failed (no page passed)');
     const h3 = document.createElement('h3');
     h3.innerText = "Pag. " + page[0];
-    h3.id = `page${page[0]}`;
+    h3.id = `page${page[0].replace('\n', '')}`;
     div.appendChild(h3);
 
     const exercises = document.createElement('div');

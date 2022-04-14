@@ -12,7 +12,7 @@ const { ask } = require('./constants');
 
     const text = fs.readFileSync('./bin/text.txt', 'utf-8');
 
-    if(units) txtDividedByUnits = text.split('Unit');
+    if(units) txtDividedByUnits = text.split('Unit ');
     else txtDividedByUnits = [text];
 
     const txtDividedByPages = txtDividedByUnits.map((unit) => unit.split('Pag. '));
