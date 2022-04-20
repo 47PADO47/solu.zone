@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 20/04/2022
+    - Added "links.js"
+    - Reverted navbar changes
+    - Added and updated some Readme.md files
 ## 14/04/2022
 
     - Added lfl A2 and B2

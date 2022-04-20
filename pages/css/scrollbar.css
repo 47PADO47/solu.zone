@@ -3,12 +3,12 @@
     width: 12px;
 }
 
- ::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
     background: blue;
     border-radius: 6px;
 }
 
- ::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(45deg, rgb(69, 69, 241));
     border-radius: 6px;
 }

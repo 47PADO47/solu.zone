@@ -25,6 +25,7 @@
         integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
     <link rel="stylesheet" href="pages/css/scrollbar.css">
+    <script src="pages/js/links.js"></script>
     <script src="pages/js/changelog.js"></script>
 </head>
 
@@ -34,7 +35,7 @@
 
     <nav id="nav_bar" class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="https://47pado47.github.io/solu.zone/"><i class="fa-solid fa-house"></i>
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-house"></i>
                 Home</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,8 +44,8 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="pages/info"> <i
-                                class="fa-solid fa-circle-info"></i> <small>Info</small></a>
+                        <a class="nav-link active" aria-current="page" id="repo" href=""> <i
+                                class="fa-solid fa-code"></i></a>
                     </li>
                 </ul>
                 <ul class="navbar-nav">
@@ -100,6 +101,7 @@
 
     <script>
         window.onload = async () => {
+            await updateLinks()
             await updateHTML();
             document.getElementById("spinner").hidden = true;
         };

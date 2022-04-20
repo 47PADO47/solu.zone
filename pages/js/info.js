@@ -1,7 +1,7 @@
 console.log('%c [SUCCESS]', 'font-size: 1.5em; color: #00ff00;', '"info.js" file loaded');
 
-const repo = '47PADO47/solu.zone';
 async function fetchApi() {
+    const repo = document.getElementById('repo').href.split('github.com/')[1];
     const al = document.getElementById('alert');
 
     const res = await fetch(`https://api.github.com/repos/${repo}`);

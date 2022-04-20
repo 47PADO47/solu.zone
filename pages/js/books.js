@@ -1,8 +1,6 @@
 console.log('%c [SUCCESS]', 'font-size: 1.5em; color: #00ff00;', '"books.js" file loaded');
 
-const author = '47PADO47';
-const repoName = 'solu.zone';
-const repo = author + '/' + repoName;
+const repo = '47PADO47/solu.zone';
 const path = 'books';
 
 async function getBooks() {
@@ -10,7 +8,7 @@ async function getBooks() {
     console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', 'getBooks() called');
 
     const al = document.getElementById('alert');
-    const booksDiv = document.getElementById('books');
+    const booksDiv = document.getElementById('container');
 
     const res = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`);
 
@@ -42,10 +40,11 @@ async function getBooks() {
         cardTitle.innerText = book.name.replace('.json', '');
 
         const cardLink = document.createElement('a');
+        cardLink.classList.add('book');
         cardLink.classList.add('btn');
         cardLink.classList.add('btn-primary');
         cardLink.innerHTML = 'Go <i class="fa-solid fa-arrow-right">';
-        cardLink.href = `https://${author}.github.io/${repoName}/pages/${book.name.replace('.json', '')}`;
+        cardLink.href = `{url}/pages/${book.name.replace('.json', '')}`;
 
         cardBody.appendChild(cardTitle);
         cardBody.appendChild(cardLink);

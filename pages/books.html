@@ -25,6 +25,7 @@
         integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
     <script src="js/books.js"></script>
+    <script src="js/links.js"></script>
     <link rel="stylesheet" href="css/scrollbar.css">
 
 </head>
@@ -35,7 +36,7 @@
 
     <nav id="nav_bar" class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="https://47pado47.github.io/solu.zone/"><i class="fa-solid fa-house"></i>
+            <a class="navbar-brand" id="home" href=""><i class="fa-solid fa-house"></i>
                 Home</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,12 +45,12 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="info"> <i
-                                class="fa-solid fa-circle-info"></i> <small>Info</small></a>
+                        <a class="nav-link active" aria-current="page" id="repo" href=""> <i
+                                class="fa-solid fa-code"></i></a>
                     </li>
                 </ul>
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a href="books" class="nav-link"><i class="fa-solid fa-book"></i>
+                    <li class="nav-item"><a id="books" href="" class="nav-link"><i class="fa-solid fa-book"></i>
                             Libri</a>
                     </li>
                 </ul>
@@ -72,7 +73,7 @@
                 </div>
             </noscript>
 
-            <div id="books">
+            <div id="container">
 
             </div>
 
@@ -98,6 +99,7 @@
     <script>
         window.onload = async () => {
             await getBooks();
+            await updateLinks();
             document.getElementById("spinner").hidden = true;
         };
     </script>
