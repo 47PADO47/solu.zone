@@ -41,4 +41,4 @@ function updateLinks() {
     });
 
     return console.log('%c [SUCCESS]', 'font-size: 1.5em; color: #00ff00;', 'updateLinks() finished');
-};
+}
