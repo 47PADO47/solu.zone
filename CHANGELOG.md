@@ -1,6 +1,12 @@
 # Changelog
 
 
+## 28/05/2022
+    - Added service worker
+    - Added JS logger
+    - Updated images
+    - Created manifest.json
+
 ## 20/04/2022
     - Added "links.js"
     - Reverted navbar changes

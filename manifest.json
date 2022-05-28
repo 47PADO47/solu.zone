@@ -1,0 +1,35 @@
+{
+    "short_name": "Solu",
+    "name": "solu.zone",
+    "icons": [
+        {
+            "src": "/pages/img/book.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/pages/img/notebook.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#5539cc",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#5539cc",
+    "shortcuts": [{
+            "name": "Show me the book list",
+            "short_name": "book-list",
+            "description": "View the list of books 📚",
+            "url": "/pages/books?source=pwa",
+            "icons": [{
+                    "src": "/pages/img/books.png",
+                    "type": "image/png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ],
+    "description": "We do quite a considerable amount of tomfoolery 💕"
+}
