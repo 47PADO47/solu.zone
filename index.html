@@ -12,8 +12,10 @@
     <meta name="keywords" content="soluzone">
     <link rel="manifest" href="manifest.json">
 
-    <link rel="apple-touch-icon" href="/img/icon.png">
+    <link rel="apple-touch-icon" href="pages/img/icon.png">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-startup-image" href="pages/img/splash.png">
+    <meta name="theme-color" content="#0000ff">
 
     <meta property="og:title" content="Solu">
     <meta property="og:description" content="🧃">
@@ -32,6 +34,7 @@
     <script src="pages/js/links.js"></script>
     <script src="pages/js/main.js" type="module"></script>
     <script src="pages/js/changelog.js"></script>
+    <script src="pages/js/update.js"></script>
 </head>
 
 <body>
@@ -72,11 +75,17 @@
             </div>
 
             <h1>solu.zone</h1>
-
-            <hr>
-
-            <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;"><img src="pages/img/notebook.png" alt="📒" style="height: 30px; width: 30px;"> Install as an app: </p>
-            <button id="install" class="btn btn-primary" style="width: 80px;"><i class="fa-solid fa-download"></i></button>
+            
+            <div id="install-div">
+                <hr>
+                <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;"><img src="pages/img/notebook.png" alt="📒" style="height: 30px; width: 30px;"> Install as an app: </p>
+                <button id="install-button" class="btn btn-primary" style="width: 80px;"><i class="fa-solid fa-download"></i></button>
+                <div id="install-instructions">
+                    <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;"><i class="fa fa-apple" aria-hidden="true"></i> iOS Installation instructions:</p>
+                    <p style="font-style: italic;" class="disabled">On iOS and iPadOS you have to add the website to the home-page in order to install it as an "app".</p>
+                    <p style="font-style: italic;" class="disabled">To do so, open it in <b>Safari</b>, click the <b>share button</b>, scroll down and click <code>Add to home screen</code>. After that you will be able to rename the "app" and by pressing the <b>add</b> button, you will find it on the home screen</p>
+                </div>
+            </div>
 
             <hr>
 
@@ -111,6 +120,7 @@
 
     <script>
         window.onload = async () => {
+            await checkInstallation();
             await updateLinks();
             await updateHTML();
             document.getElementById("spinner").hidden = true;

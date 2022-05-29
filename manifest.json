@@ -11,13 +11,24 @@
             "src": "/pages/img/notebook.png",
             "type": "image/png",
             "sizes": "144x144"
+        },
+        {
+            "src": "/pages/img/maskable_icon.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/pages/img/splash.png",
+            "type": "image/png",
+            "sizes": "512x512"
         }
     ],
     "start_url": "/?source=pwa",
-    "background_color": "#5539cc",
+    "background_color": "#0000ff",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#5539cc",
+    "theme_color": "#0000ff",
     "shortcuts": [{
             "name": "Show me the book list",
             "short_name": "book-list",
@@ -31,5 +42,9 @@
             ]
         }
     ],
-    "description": "We do quite a considerable amount of tomfoolery 💕"
+    "description": "We do quite a considerable amount of tomfoolery 💕",
+    "related_applications": [{
+        "platform": "webapp",
+        "url": "/manifest.json"
+    }]
 }
