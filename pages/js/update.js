@@ -5,5 +5,5 @@ function checkInstallation() {
     if (navigator.serviceWorker.controller) {
         console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', 'ServiceWorker is already installed');
         installDiv.style.display = 'none';
-    };
-};
+    }
+}
