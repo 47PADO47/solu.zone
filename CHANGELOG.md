@@ -1,6 +1,12 @@
 # Changelog
 
 
+## 30/05/2022
+    - Auto hide() installation related messages
+    - Added installation from button
+    - Added new icons
+    - Fixed some paths
+
 ## 28/05/2022
     - Added service worker
     - Added JS logger

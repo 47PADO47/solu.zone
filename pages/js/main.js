@@ -5,7 +5,7 @@ const installDiv = document.getElementById('install-div');
 if (navigator.serviceWorker) {
     window.addEventListener('load', async () => {
         try {
-            const registration = await navigator.serviceWorker.register('/sw.js');
+            const registration = await navigator.serviceWorker.register('sw.js');
             Logger.success('ServiceWorker registration successful');
             await registration.pushManager.subscribe()
             .then(() => Logger.success('PushManager subscription successful'))
@@ -22,7 +22,7 @@ if (navigator.serviceWorker) {
         Logger.success('beforeinstallprompt fired');
     });
 
-    installButton.addEventListener('click', async (event) => {
+    if (installButton) installButton.addEventListener('click', async (event) => {
         if (!deferredPrompt) return;
 
         deferredPrompt.prompt();
@@ -31,7 +31,7 @@ if (navigator.serviceWorker) {
         deferredPrompt = null;
     });
 
-    window.addEventListener('appinstalled', (event) => {
+    if (installDiv) window.addEventListener('appinstalled', (event) => {
         Logger.success('App installed');
         installDiv.style.display = 'none';
     });
