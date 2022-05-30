@@ -3,23 +3,23 @@
     "name": "solu.zone",
     "icons": [
         {
-            "src": "/pages/img/book.png",
+            "src": "pages/img/book.png",
             "type": "image/png",
             "sizes": "96x96"
         },
         {
-            "src": "/pages/img/notebook.png",
+            "src": "pages/img/notebook.png",
             "type": "image/png",
             "sizes": "144x144"
         },
         {
-            "src": "/pages/img/maskable_icon.png",
+            "src": "pages/img/maskable_icon.png",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "maskable"
         },
         {
-            "src": "/pages/img/splash.png",
+            "src": "pages/img/splash.png",
             "type": "image/png",
             "sizes": "512x512"
         }
@@ -33,9 +33,9 @@
             "name": "Show me the book list",
             "short_name": "book-list",
             "description": "View the list of books 📚",
-            "url": "/pages/books?source=pwa",
+            "url": "pages/books?source=pwa",
             "icons": [{
-                    "src": "/pages/img/books.png",
+                    "src": "pages/img/books.png",
                     "type": "image/png",
                     "sizes": "96x96"
                 }
@@ -45,6 +45,6 @@
     "description": "We do quite a considerable amount of tomfoolery 💕",
     "related_applications": [{
         "platform": "webapp",
-        "url": "/manifest.json"
+        "url": "manifest.json"
     }]
 }

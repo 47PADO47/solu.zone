@@ -2,8 +2,23 @@ console.log('%c [SUCCESS]', 'font-size: 1.5em; color: #00ff00;', '"update.js" fi
 
 function checkInstallation() {
     const installDiv = document.getElementById('install-div');
-    if (navigator.serviceWorker.controller) {
-        console.log('%c [INFO]', 'font-size: 1.5em; color: #800080;', 'ServiceWorker is already installed');
-        installDiv.style.display = 'none';
+    const prompt = document.getElementById('install-prompt');
+    const instructions = document.getElementById('install-instructions');
+    const alert = document.getElementById('alert');
+    
+    const hide = () => installDiv.style.display = 'none';
+
+    if (!navigator.serviceWorker) {
+        alert.hidden = false;
+        alert.innerText = 'ServiceWorker is not supported ❌';
+        return hide();
     };
+    if (navigator.standalone) return hide();
+    if (window.matchMedia('(display-mode: standalone)').matches) return hide();
+    if (isIOS()) return prompt.style.display = 'none';
+    else return instructions.style.display = 'none';
+};
+
+function isIOS() {
+    return navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPhone/i);
 };
